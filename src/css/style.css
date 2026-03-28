@@ -1,0 +1,36 @@
+body {display: flex;
+    flex-direction: column;
+    margin: 4rem 0;
+    background-color: #0f0025;
+    color: whitesmoke;
+}
+
+.cards-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4rem;
+    padding: 2rem;
+    text-align: center;
+}
+
+.card {
+    display: flex;
+    flex-direction: column;
+    gap: 1rem;
+    
+    border: 0.1rem solid #333333;
+    border-radius: 0.8rem;
+    padding: 1rem;
+    background-color: #1e1e1e;
+    box-shadow: 0 0.4rem 0.8rem rgba(0, 0, 0, 0.2);
+    transition: transform 0.2s;
+}
+
+.card img{
+    border-radius: 4rem;
+}
+
+.card:hover {
+    transform: translateY(-1rem);
+}
