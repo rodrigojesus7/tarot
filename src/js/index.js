@@ -1,7 +1,7 @@
 const cardsContainer = document.querySelector('.cards-container')
 
 async function getData() {
-    const file = '../../tarot_pt_json.json'
+    const file = './tarot_pt_json.json'
     const response = await fetch(file);
     const data = await response.json();
     return data;
