@@ -1,0 +1,3205 @@
+{
+  "baralho": "tarot",
+  "idioma": "pt-BR",
+  "totalCartas": 78,
+  "cartas": [
+    {
+      "index": 0,
+      "numero": 0,
+      "nome": "O Louco",
+      "slug": "o-louco",
+      "imagem": "/images/tarot/maior/00-o-louco.png",
+      "imagemReversa": "/images/tarot/maior/00-o-louco-reverso.png",
+      "descricaoCurta": "Novos começos, liberdade e confiança no desconhecido.",
+      "descricaoLonga": "O Louco representa o impulso inicial da jornada, a coragem de seguir sem mapa e a abertura para o inesperado. É a energia da espontaneidade, da fé e da aventura.",
+      "reverso": "Imprudência, dispersão, salto no escuro sem consciência.",
+      "keywordsPositivas": [
+        "começos",
+        "liberdade",
+        "fé",
+        "aventura"
+      ],
+      "keywordsSombrias": [
+        "imprudência",
+        "descuido",
+        "instabilidade"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Ar",
+      "astrologia": "Urano",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 1,
+      "numero": 1,
+      "nome": "O Mago",
+      "slug": "o-mago",
+      "imagem": "/images/tarot/maior/01-o-mago.png",
+      "imagemReversa": "/images/tarot/maior/01-o-mago-reverso.png",
+      "descricaoCurta": "Vontade, habilidade e poder de manifestar.",
+      "descricaoLonga": "O Mago fala de iniciativa, domínio dos recursos e capacidade de transformar intenção em ação. É a carta de quem reúne foco, técnica e confiança para criar resultados.",
+      "reverso": "Manipulação, truques, talento mal direcionado.",
+      "keywordsPositivas": [
+        "manifestação",
+        "foco",
+        "habilidade",
+        "ação"
+      ],
+      "keywordsSombrias": [
+        "manipulação",
+        "ilusão",
+        "dispersão"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Ar",
+      "astrologia": "Mercúrio",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 2,
+      "numero": 2,
+      "nome": "A Sacerdotisa",
+      "slug": "a-sacerdotisa",
+      "imagem": "/images/tarot/maior/02-a-sacerdotisa.png",
+      "imagemReversa": "/images/tarot/maior/02-a-sacerdotisa-reverso.png",
+      "descricaoCurta": "Intuição, mistério e sabedoria interior.",
+      "descricaoLonga": "A Sacerdotisa revela o conhecimento silencioso, aquilo que é percebido por dentro antes de ser explicado por fora. Ela convida à escuta, ao segredo e à confiança na intuição.",
+      "reverso": "Bloqueio intuitivo, segredos pesados, passividade excessiva.",
+      "keywordsPositivas": [
+        "intuição",
+        "mistério",
+        "sabedoria",
+        "recolhimento"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "segredo",
+        "distância emocional"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Água",
+      "astrologia": "Lua",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 3,
+      "numero": 3,
+      "nome": "A Imperatriz",
+      "slug": "a-imperatriz",
+      "imagem": "/images/tarot/maior/03-a-imperatriz.png",
+      "imagemReversa": "/images/tarot/maior/03-a-imperatriz-reverso.png",
+      "descricaoCurta": "Fertilidade, abundância e criação.",
+      "descricaoLonga": "A Imperatriz simboliza nutrição, prazer, beleza e crescimento. É a força que faz florescer, acolhe a vida e transforma cuidado em abundância concreta.",
+      "reverso": "Excesso de conforto, dependência, improdutividade.",
+      "keywordsPositivas": [
+        "criação",
+        "abundância",
+        "nutrição",
+        "beleza"
+      ],
+      "keywordsSombrias": [
+        "excesso",
+        "acomodação",
+        "estagnação"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Terra",
+      "astrologia": "Vênus",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 4,
+      "numero": 4,
+      "nome": "O Imperador",
+      "slug": "o-imperador",
+      "imagem": "/images/tarot/maior/04-o-imperador.png",
+      "imagemReversa": "/images/tarot/maior/04-o-imperador-reverso.png",
+      "descricaoCurta": "Estrutura, liderança e estabilidade.",
+      "descricaoLonga": "O Imperador representa ordem, autoridade e construção sólida. É a carta que organiza, protege e estabelece limites para que algo dure e funcione.",
+      "reverso": "Rigidez, controle excessivo, autoritarismo.",
+      "keywordsPositivas": [
+        "estrutura",
+        "disciplina",
+        "segurança",
+        "liderança"
+      ],
+      "keywordsSombrias": [
+        "rigidez",
+        "controle",
+        "dominação"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Fogo",
+      "astrologia": "Áries",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 5,
+      "numero": 5,
+      "nome": "O Hierofante",
+      "slug": "o-hierofante",
+      "imagem": "/images/tarot/maior/05-o-hierofante.png",
+      "imagemReversa": "/images/tarot/maior/05-o-hierofante-reverso.png",
+      "descricaoCurta": "Tradição, orientação e valores compartilhados.",
+      "descricaoLonga": "O Hierofante fala de aprendizado formal, espiritualidade tradicional e compromisso com princípios. Ele ensina o valor da estrutura, da ética e da transmissão de sabedoria.",
+      "reverso": "Dogmatismo, apego cego a regras, rigidez moral.",
+      "keywordsPositivas": [
+        "tradição",
+        "ensinamento",
+        "fé",
+        "compromisso"
+      ],
+      "keywordsSombrias": [
+        "dogma",
+        "rigidez",
+        "conformismo"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Terra",
+      "astrologia": "Touro",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 6,
+      "numero": 6,
+      "nome": "Os Enamorados",
+      "slug": "os-enamorados",
+      "imagem": "/images/tarot/maior/06-os-enamorados.png",
+      "imagemReversa": "/images/tarot/maior/06-os-enamorados-reverso.png",
+      "descricaoCurta": "Escolhas, vínculos e alinhamento do coração.",
+      "descricaoLonga": "Os Enamorados tratam de conexão, desejo, valores e decisões importantes. A carta pede coerência entre aquilo que se sente, se pensa e se escolhe viver.",
+      "reverso": "Indecisão, tentação, desalinhamento afetivo.",
+      "keywordsPositivas": [
+        "amor",
+        "escolha",
+        "parceria",
+        "alinhamento"
+      ],
+      "keywordsSombrias": [
+        "indecisão",
+        "tentação",
+        "conflito interno"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Ar",
+      "astrologia": "Gêmeos",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 7,
+      "numero": 7,
+      "nome": "O Carro",
+      "slug": "o-carro",
+      "imagem": "/images/tarot/maior/07-o-carro.png",
+      "imagemReversa": "/images/tarot/maior/07-o-carro-reverso.png",
+      "descricaoCurta": "Direção, conquista e movimento firme.",
+      "descricaoLonga": "O Carro mostra avanço, vitória pela disciplina e capacidade de conduzir forças opostas rumo a um objetivo. É impulso, foco e superação.",
+      "reverso": "Pressa, perda de controle, agressividade na condução.",
+      "keywordsPositivas": [
+        "vitória",
+        "direção",
+        "foco",
+        "avanço"
+      ],
+      "keywordsSombrias": [
+        "pressa",
+        "descontrole",
+        "teimosia"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Água",
+      "astrologia": "Câncer",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 8,
+      "numero": 8,
+      "nome": "A Força",
+      "slug": "a-forca",
+      "imagem": "/images/tarot/maior/08-a-forca.png",
+      "imagemReversa": "/images/tarot/maior/08-a-forca-reverso.png",
+      "descricaoCurta": "Coragem, domínio interno e suavidade poderosa.",
+      "descricaoLonga": "A Força fala da capacidade de lidar com impulsos sem violência, transformando instinto em presença consciente. É bravura com ternura e autocontrole.",
+      "reverso": "Insegurança, repressão, uso errado da energia.",
+      "keywordsPositivas": [
+        "coragem",
+        "autocontrole",
+        "resiliência",
+        "compaixão"
+      ],
+      "keywordsSombrias": [
+        "insegurança",
+        "repressão",
+        "fraqueza"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Fogo",
+      "astrologia": "Leão",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 9,
+      "numero": 9,
+      "nome": "O Eremita",
+      "slug": "o-eremita",
+      "imagem": "/images/tarot/maior/09-o-eremita.png",
+      "imagemReversa": "/images/tarot/maior/09-o-eremita-reverso.png",
+      "descricaoCurta": "Busca interior, silêncio e maturidade.",
+      "descricaoLonga": "O Eremita convida ao recolhimento, à reflexão e à sabedoria construída com tempo. Ele ilumina o caminho por dentro e valoriza a clareza que nasce da pausa.",
+      "reverso": "Isolamento excessivo, frieza, afastamento do mundo.",
+      "keywordsPositivas": [
+        "introspecção",
+        "sabedoria",
+        "pausa",
+        "guia interno"
+      ],
+      "keywordsSombrias": [
+        "isolamento",
+        "solidão",
+        "frieza"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Terra",
+      "astrologia": "Virgem",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 10,
+      "numero": 10,
+      "nome": "A Roda da Fortuna",
+      "slug": "a-roda-da-fortuna",
+      "imagem": "/images/tarot/maior/10-a-roda-da-fortuna.png",
+      "imagemReversa": "/images/tarot/maior/10-a-roda-da-fortuna-reverso.png",
+      "descricaoCurta": "Mudança, ciclos e destino em movimento.",
+      "descricaoLonga": "A Roda da Fortuna aponta viradas, oportunidades e os ciclos inevitáveis da vida. Ela lembra que tudo se move e que momentos de expansão e recolhimento fazem parte do caminho.",
+      "reverso": "Instabilidade, sensação de estar à mercê do acaso.",
+      "keywordsPositivas": [
+        "mudança",
+        "ciclo",
+        "sorte",
+        "virada"
+      ],
+      "keywordsSombrias": [
+        "instabilidade",
+        "oscilação",
+        "imprevisibilidade"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Fogo",
+      "astrologia": "Júpiter",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 11,
+      "numero": 11,
+      "nome": "A Justiça",
+      "slug": "a-justica",
+      "imagem": "/images/tarot/maior/11-a-justica.png",
+      "imagemReversa": "/images/tarot/maior/11-a-justica-reverso.png",
+      "descricaoCurta": "Equilíbrio, verdade e responsabilidade.",
+      "descricaoLonga": "A Justiça fala de discernimento, consequências e correção de rota. Ela pede honestidade consigo e com os outros, além de decisões baseadas em clareza e equilíbrio.",
+      "reverso": "Injustiça, rigidez, julgamento enviesado.",
+      "keywordsPositivas": [
+        "equilíbrio",
+        "verdade",
+        "ética",
+        "responsabilidade"
+      ],
+      "keywordsSombrias": [
+        "injustiça",
+        "julgamento",
+        "desequilíbrio"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Ar",
+      "astrologia": "Libra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 12,
+      "numero": 12,
+      "nome": "O Enforcado",
+      "slug": "o-enforcado",
+      "imagem": "/images/tarot/maior/12-o-enforcado.png",
+      "imagemReversa": "/images/tarot/maior/12-o-enforcado-reverso.png",
+      "descricaoCurta": "Entrega, pausa e nova perspectiva.",
+      "descricaoLonga": "O Enforcado mostra suspensão voluntária, desapego e a chance de enxergar a vida por outro ângulo. Às vezes, avançar exige parar e soltar o controle.",
+      "reverso": "Estagnação, vitimismo, sacrifício sem propósito.",
+      "keywordsPositivas": [
+        "entrega",
+        "pausa",
+        "renúncia",
+        "perspectiva"
+      ],
+      "keywordsSombrias": [
+        "estagnação",
+        "bloqueio",
+        "sacrifício"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Água",
+      "astrologia": "Netuno",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 13,
+      "numero": 13,
+      "nome": "A Morte",
+      "slug": "a-morte",
+      "imagem": "/images/tarot/maior/13-a-morte.png",
+      "imagemReversa": "/images/tarot/maior/13-a-morte-reverso.png",
+      "descricaoCurta": "Fim de ciclo, transformação e renascimento.",
+      "descricaoLonga": "A Morte representa encerramentos inevitáveis que abrem espaço para algo novo. Ela corta o que já cumpriu seu papel para permitir renovação profunda.",
+      "reverso": "Resistência à mudança, apego, medo de encerrar ciclos.",
+      "keywordsPositivas": [
+        "transformação",
+        "renascimento",
+        "fim",
+        "libertação"
+      ],
+      "keywordsSombrias": [
+        "apego",
+        "medo",
+        "resistência"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Água",
+      "astrologia": "Escorpião",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 14,
+      "numero": 14,
+      "nome": "A Temperança",
+      "slug": "a-temperanca",
+      "imagem": "/images/tarot/maior/14-a-temperanca.png",
+      "imagemReversa": "/images/tarot/maior/14-a-temperanca-reverso.png",
+      "descricaoCurta": "Harmonia, paciência e integração.",
+      "descricaoLonga": "A Temperança simboliza ajuste fino, cura e equilíbrio entre opostos. É a carta da moderação, da alquimia interna e do tempo certo para cada coisa.",
+      "reverso": "Excesso, impaciência, falta de moderação.",
+      "keywordsPositivas": [
+        "harmonia",
+        "cura",
+        "equilíbrio",
+        "paciência"
+      ],
+      "keywordsSombrias": [
+        "excesso",
+        "impaciência",
+        "descompasso"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Fogo",
+      "astrologia": "Sagitário",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 15,
+      "numero": 15,
+      "nome": "O Diabo",
+      "slug": "o-diabo",
+      "imagem": "/images/tarot/maior/15-o-diabo.png",
+      "imagemReversa": "/images/tarot/maior/15-o-diabo-reverso.png",
+      "descricaoCurta": "Desejo, apego e sombras conscientes.",
+      "descricaoLonga": "O Diabo mostra vínculos de dependência, tentações e padrões que aprisionam. Também revela a potência da matéria, do prazer e da consciência sobre a própria sombra.",
+      "reverso": "Vício, manipulação, prisão psicológica.",
+      "keywordsPositivas": [
+        "desejo",
+        "sombra",
+        "prazer",
+        "poder"
+      ],
+      "keywordsSombrias": [
+        "vício",
+        "apego",
+        "prisão"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Terra",
+      "astrologia": "Capricórnio",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 16,
+      "numero": 16,
+      "nome": "A Torre",
+      "slug": "a-torre",
+      "imagem": "/images/tarot/maior/16-a-torre.png",
+      "imagemReversa": "/images/tarot/maior/16-a-torre-reverso.png",
+      "descricaoCurta": "Ruptura, verdade abrupta e libertação.",
+      "descricaoLonga": "A Torre representa colapsos necessários, revelações intensas e a queda de estruturas frágeis. Embora choque, ela limpa o que estava sustentado em ilusão.",
+      "reverso": "Crise, caos, destruição evitável.",
+      "keywordsPositivas": [
+        "ruptura",
+        "verdade",
+        "libertação",
+        "choque"
+      ],
+      "keywordsSombrias": [
+        "crise",
+        "caos",
+        "quebra"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Fogo",
+      "astrologia": "Marte",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 17,
+      "numero": 17,
+      "nome": "A Estrela",
+      "slug": "a-estrela",
+      "imagem": "/images/tarot/maior/17-a-estrela.png",
+      "imagemReversa": "/images/tarot/maior/17-a-estrela-reverso.png",
+      "descricaoCurta": "Esperança, inspiração e cura suave.",
+      "descricaoLonga": "A Estrela traz fé renovada, proteção e serenidade após a tempestade. É a carta da confiança no futuro, da inspiração e do retorno à própria essência.",
+      "reverso": "Desânimo, dispersão, falta de fé.",
+      "keywordsPositivas": [
+        "esperança",
+        "inspiração",
+        "cura",
+        "fé"
+      ],
+      "keywordsSombrias": [
+        "desânimo",
+        "ilusão",
+        "fragilidade"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Ar",
+      "astrologia": "Aquário",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 18,
+      "numero": 18,
+      "nome": "A Lua",
+      "slug": "a-lua",
+      "imagem": "/images/tarot/maior/18-a-lua.png",
+      "imagemReversa": "/images/tarot/maior/18-a-lua-reverso.png",
+      "descricaoCurta": "Sonhos, intuição e mistério emocional.",
+      "descricaoLonga": "A Lua revela o território do inconsciente, das emoções oscilantes e da percepção simbólica. Ela pede cuidado com ilusões, mas valoriza profundamente a intuição.",
+      "reverso": "Confusão, medo, autoengano.",
+      "keywordsPositivas": [
+        "intuição",
+        "sonhos",
+        "mistério",
+        "imaginário"
+      ],
+      "keywordsSombrias": [
+        "confusão",
+        "medo",
+        "ilusões"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Água",
+      "astrologia": "Peixes",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 19,
+      "numero": 19,
+      "nome": "O Sol",
+      "slug": "o-sol",
+      "imagem": "/images/tarot/maior/19-o-sol.png",
+      "imagemReversa": "/images/tarot/maior/19-o-sol-reverso.png",
+      "descricaoCurta": "Clareza, vitalidade e alegria.",
+      "descricaoLonga": "O Sol representa sucesso, verdade iluminada e energia vital em abundância. É a carta da simplicidade feliz, da confiança e da expressão plena.",
+      "reverso": "Ego inflado, exposição excessiva, ingenuidade.",
+      "keywordsPositivas": [
+        "alegria",
+        "clareza",
+        "sucesso",
+        "vitalidade"
+      ],
+      "keywordsSombrias": [
+        "ego",
+        "excesso",
+        "ingenuidade"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Fogo",
+      "astrologia": "Sol",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 20,
+      "numero": 20,
+      "nome": "O Julgamento",
+      "slug": "o-julgamento",
+      "imagem": "/images/tarot/maior/20-o-julgamento.png",
+      "imagemReversa": "/images/tarot/maior/20-o-julgamento-reverso.png",
+      "descricaoCurta": "Despertar, chamado e avaliação.",
+      "descricaoLonga": "O Julgamento simboliza renascimento consciente, chamado interno e decisão de responder à própria verdade. É a carta do despertar e da libertação de velhos padrões.",
+      "reverso": "Autojulgamento, culpa, resistência ao chamado.",
+      "keywordsPositivas": [
+        "despertar",
+        "chamado",
+        "renascimento",
+        "decisão"
+      ],
+      "keywordsSombrias": [
+        "culpa",
+        "julgamento",
+        "resistência"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Fogo",
+      "astrologia": "Plutão",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 21,
+      "numero": 21,
+      "nome": "O Mundo",
+      "slug": "o-mundo",
+      "imagem": "/images/tarot/maior/21-o-mundo.png",
+      "imagemReversa": "/images/tarot/maior/21-o-mundo-reverso.png",
+      "descricaoCurta": "Conclusão, integração e plenitude.",
+      "descricaoLonga": "O Mundo indica fechamento de ciclo, realização e sensação de totalidade. É a recompensa pela jornada concluída e a abertura para um novo patamar.",
+      "reverso": "Incompletude, atraso, sensação de ciclo travado.",
+      "keywordsPositivas": [
+        "realização",
+        "integração",
+        "plenitude",
+        "conclusão"
+      ],
+      "keywordsSombrias": [
+        "atraso",
+        "incompleto",
+        "travamento"
+      ],
+      "arcano": "maior",
+      "naipe": null,
+      "tipoMenor": null,
+      "elemento": "Terra",
+      "astrologia": "Saturno",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 22,
+      "numero": 1,
+      "nome": "Ás de Paus",
+      "slug": "as-de-paus",
+      "imagem": "/images/tarot/menor/paus/as-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/as-de-paus-reverso.png",
+      "descricaoCurta": "Início, semente e potencial puro no naipe de paus.",
+      "descricaoLonga": "Ás de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "início",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "numeral",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 23,
+      "numero": 2,
+      "nome": "Dois de Paus",
+      "slug": "dois-de-paus",
+      "imagem": "/images/tarot/menor/paus/dois-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/dois-de-paus-reverso.png",
+      "descricaoCurta": "Dupla, troca e equilíbrio inicial no naipe de paus.",
+      "descricaoLonga": "Dois de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "dupla",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "numeral",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 24,
+      "numero": 3,
+      "nome": "Três de Paus",
+      "slug": "tres-de-paus",
+      "imagem": "/images/tarot/menor/paus/tres-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/tres-de-paus-reverso.png",
+      "descricaoCurta": "Expansão, colaboração e crescimento no naipe de paus.",
+      "descricaoLonga": "Três de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "expansão",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "numeral",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 25,
+      "numero": 4,
+      "nome": "Quatro de Paus",
+      "slug": "quatro-de-paus",
+      "imagem": "/images/tarot/menor/paus/quatro-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/quatro-de-paus-reverso.png",
+      "descricaoCurta": "Estrutura, estabilidade e base no naipe de paus.",
+      "descricaoLonga": "Quatro de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "estrutura",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "numeral",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 26,
+      "numero": 5,
+      "nome": "Cinco de Paus",
+      "slug": "cinco-de-paus",
+      "imagem": "/images/tarot/menor/paus/cinco-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/cinco-de-paus-reverso.png",
+      "descricaoCurta": "Conflito, desafio e movimento no naipe de paus.",
+      "descricaoLonga": "Cinco de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "desafio",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "numeral",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 27,
+      "numero": 6,
+      "nome": "Seis de Paus",
+      "slug": "seis-de-paus",
+      "imagem": "/images/tarot/menor/paus/seis-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/seis-de-paus-reverso.png",
+      "descricaoCurta": "Harmonia, progresso e ajuste no naipe de paus.",
+      "descricaoLonga": "Seis de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "progresso",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "numeral",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 28,
+      "numero": 7,
+      "nome": "Sete de Paus",
+      "slug": "sete-de-paus",
+      "imagem": "/images/tarot/menor/paus/sete-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/sete-de-paus-reverso.png",
+      "descricaoCurta": "Prova, estratégia e reflexão no naipe de paus.",
+      "descricaoLonga": "Sete de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "defesa",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "numeral",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 29,
+      "numero": 8,
+      "nome": "Oito de Paus",
+      "slug": "oito-de-paus",
+      "imagem": "/images/tarot/menor/paus/oito-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/oito-de-paus-reverso.png",
+      "descricaoCurta": "Ritmo, domínio e avanço no naipe de paus.",
+      "descricaoLonga": "Oito de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "movimento",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "numeral",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 30,
+      "numero": 9,
+      "nome": "Nove de Paus",
+      "slug": "nove-de-paus",
+      "imagem": "/images/tarot/menor/paus/nove-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/nove-de-paus-reverso.png",
+      "descricaoCurta": "Conclusão interna e maturidade no naipe de paus.",
+      "descricaoLonga": "Nove de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "resistência",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "numeral",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 31,
+      "numero": 10,
+      "nome": "Dez de Paus",
+      "slug": "dez-de-paus",
+      "imagem": "/images/tarot/menor/paus/dez-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/dez-de-paus-reverso.png",
+      "descricaoCurta": "Fechamento, colheita e transbordo no naipe de paus.",
+      "descricaoLonga": "Dez de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "finalização",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "numeral",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 32,
+      "numero": 11,
+      "nome": "Pajem de Paus",
+      "slug": "pajem-de-paus",
+      "imagem": "/images/tarot/menor/paus/pajem-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/pajem-de-paus-reverso.png",
+      "descricaoCurta": "Mensagem, aprendizado e curiosidade no naipe de paus.",
+      "descricaoLonga": "Pajem de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "curiosidade",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "corte",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 33,
+      "numero": 12,
+      "nome": "Cavaleiro de Paus",
+      "slug": "cavaleiro-de-paus",
+      "imagem": "/images/tarot/menor/paus/cavaleiro-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/cavaleiro-de-paus-reverso.png",
+      "descricaoCurta": "Ação, impulso e movimento no naipe de paus.",
+      "descricaoLonga": "Cavaleiro de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "impulso",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "corte",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 34,
+      "numero": 13,
+      "nome": "Rainha de Paus",
+      "slug": "rainha-de-paus",
+      "imagem": "/images/tarot/menor/paus/rainha-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/rainha-de-paus-reverso.png",
+      "descricaoCurta": "Maestria, acolhimento e presença no naipe de paus.",
+      "descricaoLonga": "Rainha de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "presença",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "corte",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 35,
+      "numero": 14,
+      "nome": "Rei de Paus",
+      "slug": "rei-de-paus",
+      "imagem": "/images/tarot/menor/paus/rei-de-paus.png",
+      "imagemReversa": "/images/tarot/menor/paus/rei-de-paus-reverso.png",
+      "descricaoCurta": "Autoridade, domínio e direção no naipe de paus.",
+      "descricaoLonga": "Rei de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "keywordsPositivas": [
+        "liderança",
+        "ação",
+        "vontade",
+        "criação"
+      ],
+      "keywordsSombrias": [
+        "bloqueio",
+        "impulsividade",
+        "cansaço"
+      ],
+      "arcano": "menor",
+      "naipe": "paus",
+      "tipoMenor": "corte",
+      "elemento": "Fogo",
+      "astrologia": "Associado ao elemento Fogo",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 36,
+      "numero": 1,
+      "nome": "Ás de Copas",
+      "slug": "as-de-copas",
+      "imagem": "/images/tarot/menor/copas/as-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/as-de-copas-reverso.png",
+      "descricaoCurta": "Início, semente e potencial puro no naipe de copas.",
+      "descricaoLonga": "Ás de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "início",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "numeral",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 37,
+      "numero": 2,
+      "nome": "Dois de Copas",
+      "slug": "dois-de-copas",
+      "imagem": "/images/tarot/menor/copas/dois-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/dois-de-copas-reverso.png",
+      "descricaoCurta": "Dupla, troca e equilíbrio inicial no naipe de copas.",
+      "descricaoLonga": "Dois de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "união",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "numeral",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 38,
+      "numero": 3,
+      "nome": "Três de Copas",
+      "slug": "tres-de-copas",
+      "imagem": "/images/tarot/menor/copas/tres-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/tres-de-copas-reverso.png",
+      "descricaoCurta": "Expansão, colaboração e crescimento no naipe de copas.",
+      "descricaoLonga": "Três de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "celebração",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "numeral",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 39,
+      "numero": 4,
+      "nome": "Quatro de Copas",
+      "slug": "quatro-de-copas",
+      "imagem": "/images/tarot/menor/copas/quatro-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/quatro-de-copas-reverso.png",
+      "descricaoCurta": "Estrutura, estabilidade e base no naipe de copas.",
+      "descricaoLonga": "Quatro de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "estabilidade",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "numeral",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 40,
+      "numero": 5,
+      "nome": "Cinco de Copas",
+      "slug": "cinco-de-copas",
+      "imagem": "/images/tarot/menor/copas/cinco-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/cinco-de-copas-reverso.png",
+      "descricaoCurta": "Conflito, desafio e movimento no naipe de copas.",
+      "descricaoLonga": "Cinco de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "luto",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "numeral",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 41,
+      "numero": 6,
+      "nome": "Seis de Copas",
+      "slug": "seis-de-copas",
+      "imagem": "/images/tarot/menor/copas/seis-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/seis-de-copas-reverso.png",
+      "descricaoCurta": "Harmonia, progresso e ajuste no naipe de copas.",
+      "descricaoLonga": "Seis de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "memória",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "numeral",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 42,
+      "numero": 7,
+      "nome": "Sete de Copas",
+      "slug": "sete-de-copas",
+      "imagem": "/images/tarot/menor/copas/sete-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/sete-de-copas-reverso.png",
+      "descricaoCurta": "Prova, estratégia e reflexão no naipe de copas.",
+      "descricaoLonga": "Sete de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "escolhas",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "numeral",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 43,
+      "numero": 8,
+      "nome": "Oito de Copas",
+      "slug": "oito-de-copas",
+      "imagem": "/images/tarot/menor/copas/oito-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/oito-de-copas-reverso.png",
+      "descricaoCurta": "Ritmo, domínio e avanço no naipe de copas.",
+      "descricaoLonga": "Oito de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "partida",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "numeral",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 44,
+      "numero": 9,
+      "nome": "Nove de Copas",
+      "slug": "nove-de-copas",
+      "imagem": "/images/tarot/menor/copas/nove-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/nove-de-copas-reverso.png",
+      "descricaoCurta": "Conclusão interna e maturidade no naipe de copas.",
+      "descricaoLonga": "Nove de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "satisfação",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "numeral",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 45,
+      "numero": 10,
+      "nome": "Dez de Copas",
+      "slug": "dez-de-copas",
+      "imagem": "/images/tarot/menor/copas/dez-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/dez-de-copas-reverso.png",
+      "descricaoCurta": "Fechamento, colheita e transbordo no naipe de copas.",
+      "descricaoLonga": "Dez de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "felicidade",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "numeral",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 46,
+      "numero": 11,
+      "nome": "Pajem de Copas",
+      "slug": "pajem-de-copas",
+      "imagem": "/images/tarot/menor/copas/pajem-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/pajem-de-copas-reverso.png",
+      "descricaoCurta": "Mensagem, aprendizado e curiosidade no naipe de copas.",
+      "descricaoLonga": "Pajem de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "sensibilidade",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "corte",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 47,
+      "numero": 12,
+      "nome": "Cavaleiro de Copas",
+      "slug": "cavaleiro-de-copas",
+      "imagem": "/images/tarot/menor/copas/cavaleiro-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/cavaleiro-de-copas-reverso.png",
+      "descricaoCurta": "Ação, impulso e movimento no naipe de copas.",
+      "descricaoLonga": "Cavaleiro de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "romance",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "corte",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 48,
+      "numero": 13,
+      "nome": "Rainha de Copas",
+      "slug": "rainha-de-copas",
+      "imagem": "/images/tarot/menor/copas/rainha-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/rainha-de-copas-reverso.png",
+      "descricaoCurta": "Maestria, acolhimento e presença no naipe de copas.",
+      "descricaoLonga": "Rainha de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "acolhimento",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "corte",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 49,
+      "numero": 14,
+      "nome": "Rei de Copas",
+      "slug": "rei-de-copas",
+      "imagem": "/images/tarot/menor/copas/rei-de-copas.png",
+      "imagemReversa": "/images/tarot/menor/copas/rei-de-copas-reverso.png",
+      "descricaoCurta": "Autoridade, domínio e direção no naipe de copas.",
+      "descricaoLonga": "Rei de Copas fala de emoções, amor e intuição dentro do tema de emoções, amor e vínculos. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Instabilidade emocional, carência e bloqueio afetivo.",
+      "keywordsPositivas": [
+        "maturidade",
+        "emoções",
+        "amor",
+        "vínculos"
+      ],
+      "keywordsSombrias": [
+        "instabilidade emocional",
+        "carência",
+        "bloqueio afetivo"
+      ],
+      "arcano": "menor",
+      "naipe": "copas",
+      "tipoMenor": "corte",
+      "elemento": "Água",
+      "astrologia": "Associado ao elemento Água",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 50,
+      "numero": 1,
+      "nome": "Ás de Espadas",
+      "slug": "as-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/as-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/as-de-espadas-reverso.png",
+      "descricaoCurta": "Início, semente e potencial puro no naipe de espadas.",
+      "descricaoLonga": "Ás de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "clareza",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "numeral",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 51,
+      "numero": 2,
+      "nome": "Dois de Espadas",
+      "slug": "dois-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/dois-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/dois-de-espadas-reverso.png",
+      "descricaoCurta": "Dupla, troca e equilíbrio inicial no naipe de espadas.",
+      "descricaoLonga": "Dois de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "dilema",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "numeral",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 52,
+      "numero": 3,
+      "nome": "Três de Espadas",
+      "slug": "tres-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/tres-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/tres-de-espadas-reverso.png",
+      "descricaoCurta": "Expansão, colaboração e crescimento no naipe de espadas.",
+      "descricaoLonga": "Três de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "dor",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "numeral",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 53,
+      "numero": 4,
+      "nome": "Quatro de Espadas",
+      "slug": "quatro-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/quatro-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/quatro-de-espadas-reverso.png",
+      "descricaoCurta": "Estrutura, estabilidade e base no naipe de espadas.",
+      "descricaoLonga": "Quatro de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "repouso",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "numeral",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 54,
+      "numero": 5,
+      "nome": "Cinco de Espadas",
+      "slug": "cinco-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/cinco-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/cinco-de-espadas-reverso.png",
+      "descricaoCurta": "Conflito, desafio e movimento no naipe de espadas.",
+      "descricaoLonga": "Cinco de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "disputa",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "numeral",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 55,
+      "numero": 6,
+      "nome": "Seis de Espadas",
+      "slug": "seis-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/seis-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/seis-de-espadas-reverso.png",
+      "descricaoCurta": "Harmonia, progresso e ajuste no naipe de espadas.",
+      "descricaoLonga": "Seis de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "transição",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "numeral",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 56,
+      "numero": 7,
+      "nome": "Sete de Espadas",
+      "slug": "sete-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/sete-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/sete-de-espadas-reverso.png",
+      "descricaoCurta": "Prova, estratégia e reflexão no naipe de espadas.",
+      "descricaoLonga": "Sete de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "estratégia",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "numeral",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 57,
+      "numero": 8,
+      "nome": "Oito de Espadas",
+      "slug": "oito-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/oito-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/oito-de-espadas-reverso.png",
+      "descricaoCurta": "Ritmo, domínio e avanço no naipe de espadas.",
+      "descricaoLonga": "Oito de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "saída",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "numeral",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 58,
+      "numero": 9,
+      "nome": "Nove de Espadas",
+      "slug": "nove-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/nove-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/nove-de-espadas-reverso.png",
+      "descricaoCurta": "Conclusão interna e maturidade no naipe de espadas.",
+      "descricaoLonga": "Nove de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "preocupação",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "numeral",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 59,
+      "numero": 10,
+      "nome": "Dez de Espadas",
+      "slug": "dez-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/dez-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/dez-de-espadas-reverso.png",
+      "descricaoCurta": "Fechamento, colheita e transbordo no naipe de espadas.",
+      "descricaoLonga": "Dez de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "fim",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "numeral",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 60,
+      "numero": 11,
+      "nome": "Pajem de Espadas",
+      "slug": "pajem-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/pajem-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/pajem-de-espadas-reverso.png",
+      "descricaoCurta": "Mensagem, aprendizado e curiosidade no naipe de espadas.",
+      "descricaoLonga": "Pajem de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "curiosidade",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "corte",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 61,
+      "numero": 12,
+      "nome": "Cavaleiro de Espadas",
+      "slug": "cavaleiro-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/cavaleiro-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/cavaleiro-de-espadas-reverso.png",
+      "descricaoCurta": "Ação, impulso e movimento no naipe de espadas.",
+      "descricaoLonga": "Cavaleiro de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "decisão",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "corte",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 62,
+      "numero": 13,
+      "nome": "Rainha de Espadas",
+      "slug": "rainha-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/rainha-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/rainha-de-espadas-reverso.png",
+      "descricaoCurta": "Maestria, acolhimento e presença no naipe de espadas.",
+      "descricaoLonga": "Rainha de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "lucidez",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "corte",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 63,
+      "numero": 14,
+      "nome": "Rei de Espadas",
+      "slug": "rei-de-espadas",
+      "imagem": "/images/tarot/menor/espadas/rei-de-espadas.png",
+      "imagemReversa": "/images/tarot/menor/espadas/rei-de-espadas-reverso.png",
+      "descricaoCurta": "Autoridade, domínio e direção no naipe de espadas.",
+      "descricaoLonga": "Rei de Espadas fala de mente, verdade e discernimento dentro do tema de mente, verdade e análise. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Confusão mental, conflito e ansiedade.",
+      "keywordsPositivas": [
+        "autoridade",
+        "mente",
+        "verdade",
+        "análise"
+      ],
+      "keywordsSombrias": [
+        "confusão mental",
+        "conflito",
+        "ansiedade"
+      ],
+      "arcano": "menor",
+      "naipe": "espadas",
+      "tipoMenor": "corte",
+      "elemento": "Ar",
+      "astrologia": "Associado ao elemento Ar",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 64,
+      "numero": 1,
+      "nome": "Ás de Ouros",
+      "slug": "as-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/as-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/as-de-ouros-reverso.png",
+      "descricaoCurta": "Início, semente e potencial puro no naipe de ouros.",
+      "descricaoLonga": "Ás de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "início",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "numeral",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 65,
+      "numero": 2,
+      "nome": "Dois de Ouros",
+      "slug": "dois-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/dois-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/dois-de-ouros-reverso.png",
+      "descricaoCurta": "Dupla, troca e equilíbrio inicial no naipe de ouros.",
+      "descricaoLonga": "Dois de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "adaptação",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "numeral",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 66,
+      "numero": 3,
+      "nome": "Três de Ouros",
+      "slug": "tres-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/tres-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/tres-de-ouros-reverso.png",
+      "descricaoCurta": "Expansão, colaboração e crescimento no naipe de ouros.",
+      "descricaoLonga": "Três de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "trabalho",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "numeral",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 67,
+      "numero": 4,
+      "nome": "Quatro de Ouros",
+      "slug": "quatro-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/quatro-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/quatro-de-ouros-reverso.png",
+      "descricaoCurta": "Estrutura, estabilidade e base no naipe de ouros.",
+      "descricaoLonga": "Quatro de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "proteção",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "numeral",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 68,
+      "numero": 5,
+      "nome": "Cinco de Ouros",
+      "slug": "cinco-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/cinco-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/cinco-de-ouros-reverso.png",
+      "descricaoCurta": "Conflito, desafio e movimento no naipe de ouros.",
+      "descricaoLonga": "Cinco de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "resistência",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "numeral",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 69,
+      "numero": 6,
+      "nome": "Seis de Ouros",
+      "slug": "seis-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/seis-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/seis-de-ouros-reverso.png",
+      "descricaoCurta": "Harmonia, progresso e ajuste no naipe de ouros.",
+      "descricaoLonga": "Seis de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "troca",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "numeral",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 70,
+      "numero": 7,
+      "nome": "Sete de Ouros",
+      "slug": "sete-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/sete-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/sete-de-ouros-reverso.png",
+      "descricaoCurta": "Prova, estratégia e reflexão no naipe de ouros.",
+      "descricaoLonga": "Sete de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "avaliação",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "numeral",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 71,
+      "numero": 8,
+      "nome": "Oito de Ouros",
+      "slug": "oito-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/oito-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/oito-de-ouros-reverso.png",
+      "descricaoCurta": "Ritmo, domínio e avanço no naipe de ouros.",
+      "descricaoLonga": "Oito de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "dedicação",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "numeral",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 72,
+      "numero": 9,
+      "nome": "Nove de Ouros",
+      "slug": "nove-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/nove-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/nove-de-ouros-reverso.png",
+      "descricaoCurta": "Conclusão interna e maturidade no naipe de ouros.",
+      "descricaoLonga": "Nove de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "autonomia",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "numeral",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 73,
+      "numero": 10,
+      "nome": "Dez de Ouros",
+      "slug": "dez-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/dez-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/dez-de-ouros-reverso.png",
+      "descricaoCurta": "Fechamento, colheita e transbordo no naipe de ouros.",
+      "descricaoLonga": "Dez de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "legado",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "numeral",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 74,
+      "numero": 11,
+      "nome": "Pajem de Ouros",
+      "slug": "pajem-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/pajem-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/pajem-de-ouros-reverso.png",
+      "descricaoCurta": "Mensagem, aprendizado e curiosidade no naipe de ouros.",
+      "descricaoLonga": "Pajem de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "aprendizado",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "corte",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 75,
+      "numero": 12,
+      "nome": "Cavaleiro de Ouros",
+      "slug": "cavaleiro-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/cavaleiro-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/cavaleiro-de-ouros-reverso.png",
+      "descricaoCurta": "Ação, impulso e movimento no naipe de ouros.",
+      "descricaoLonga": "Cavaleiro de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "constância",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "corte",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 76,
+      "numero": 13,
+      "nome": "Rainha de Ouros",
+      "slug": "rainha-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/rainha-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/rainha-de-ouros-reverso.png",
+      "descricaoCurta": "Maestria, acolhimento e presença no naipe de ouros.",
+      "descricaoLonga": "Rainha de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "cuidado",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "corte",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    },
+    {
+      "index": 77,
+      "numero": 14,
+      "nome": "Rei de Ouros",
+      "slug": "rei-de-ouros",
+      "imagem": "/images/tarot/menor/ouros/rei-de-ouros.png",
+      "imagemReversa": "/images/tarot/menor/ouros/rei-de-ouros-reverso.png",
+      "descricaoCurta": "Autoridade, domínio e direção no naipe de ouros.",
+      "descricaoLonga": "Rei de Ouros fala de materialidade, estabilidade, corpo e recursos dentro do tema de matéria, trabalho e segurança. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
+      "reverso": "Escassez, apego, lentidão e insegurança.",
+      "keywordsPositivas": [
+        "prosperidade",
+        "materialidade",
+        "estabilidade",
+        "recursos"
+      ],
+      "keywordsSombrias": [
+        "escassez",
+        "apego",
+        "lentidão"
+      ],
+      "arcano": "menor",
+      "naipe": "ouros",
+      "tipoMenor": "corte",
+      "elemento": "Terra",
+      "astrologia": "Associado ao elemento Terra",
+      "significado": {
+        "amor": {
+          "reto": "",
+          "reverso": ""
+        },
+        "profissional": {
+          "reto": "",
+          "reverso": ""
+        },
+        "saude": {
+          "reto": "",
+          "reverso": ""
+        }
+      }
+    }
+  ]
+}
