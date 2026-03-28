@@ -7,6 +7,8 @@ async function getData() {
     return data;
 }
 
+
+
 getData().then(data => {
     const cards = data.cartas;
     console.log(cards[0]);
@@ -16,7 +18,7 @@ getData().then(data => {
     cardsContainer.innerHTML = arcanosMaiores.map((card) => {
         return `
         <div class="card">
-            <img src="../${card.imagem}" alt="Carta do Tartot: ${card.nome}">
+            <img src="./src${card.imagem}" alt="Carta do Tartot: ${card.nome}">
             <h2>${card.nome}</h2>
             <p>${card.descricaoCurta}</p>
         </div>
