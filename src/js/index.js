@@ -25,7 +25,8 @@ getData().then(data => {
             
             <div class="cardInfo">
                 <h2>${card.nome}</h2>
-                <p>${card.descricaoCurta}</p>
+                <p>${card.keywordsPositivas}</p>
+                <p>${card.descricaoLonga}</p>
             </div>
             
         </div>
@@ -40,8 +41,9 @@ getData().then(data => {
             <img src="./src${card.imagem}" alt="Carta do Tartot: ${card.nome}">
 
             <div class="cardInfo">
-                <h2>${card.nome}</h2>
-                <p>${card.descricaoCurta}</p>
+                <h2 class="cardTitle">${card.nome}</h2>
+                <p class="keyWords">${card.keywordsPositivas}</p>
+                <p class="description">${card.descricaoLonga}</p>
             </div>
 
         </div>
