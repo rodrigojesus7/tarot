@@ -1,4 +1,6 @@
 const cardsContainer = document.querySelector('.cards-container')
+const majorArcanaContainer = document.querySelector('.majorArcanaContainer')
+const minorArcanaContainer = document.querySelector('.minorArcanaContainer')
 
 async function getData() {
     const file = './tarot_pt_json.json';
@@ -14,14 +16,39 @@ getData().then(data => {
     console.log(cards[0]);
 
     const arcanosMaiores = cards.slice(0, 22);
+    const arcanosMenores = cards.slice(22);
 
-    cardsContainer.innerHTML = arcanosMaiores.map((card) => {
+    majorArcanaContainer.innerHTML = arcanosMaiores.map((card) => {
         return `
         <div class="card">
             <img src="./src${card.imagem}" alt="Carta do Tartot: ${card.nome}">
-            <h2>${card.nome}</h2>
-            <p>${card.descricaoCurta}</p>
+            
+            <div class="cardInfo">
+                <h2>${card.nome}</h2>
+                <p>${card.descricaoCurta}</p>
+            </div>
+            
         </div>
         `
     }).join('');
+
+
+
+    minorArcanaContainer.innerHTML = arcanosMenores.map((card) => {
+        return `
+        <div class="card">
+            <img src="./src${card.imagem}" alt="Carta do Tartot: ${card.nome}">
+
+            <div class="cardInfo">
+                <h2>${card.nome}</h2>
+                <p>${card.descricaoCurta}</p>
+            </div>
+
+        </div>
+        `
+    }).join('');
+
+
+
+
 })
