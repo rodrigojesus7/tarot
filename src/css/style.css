@@ -1,11 +1,19 @@
 :root {
     --title-font: 'Cinzel', serif;
+    --title-font-size: clamp(2rem, 3vw, 9rem);
     --title-letter-spacing: 0.5rem;
 
-    --section-title-font: 'Playfair Display', serif;
-    --card-title-font: 'Playfair Display', serif;
+    --section-title-font: 'Cinzel', serif;
+    --section-title-font-size: clamp(3rem, 4vw, 7rem);
+
+    --card-title-font: 'Cinzel', serif;
+    --card-title-font-size: clamp(1.5rem, 2vw, 2.5rem);
+
     --card-key-word-text-font: 'Cormorant Garamond', serif;
+    --card-key-word-text-font-size: clamp(1rem, 1.5vw, 2rem);
+
     --card-description-text-font: 'Lora', serif;
+    --card-description-text-font-size: clamp(0.8rem, 1vw, 1.5rem);
 }
 
 
@@ -29,21 +37,51 @@ body {
     text-align: center;
 }
 
-.title{
+.title {
     font-family: var(--title-font);
-    font-size: clamp(3rem, 5vw, 6rem);
+    font-size: var(--title-font-size);
     letter-spacing: var(--title-letter-spacing);
 }
 
-.cards-container,
+.cardsContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 4rem;
+    padding: 2rem 0;
+}
+
+.majorArcanaSection,
+.minorArcanaSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 2rem;
+
+    margin: 7rem 0;
+}
+
 .majorArcanaContainer,
 .minorArcanaContainer {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
     gap: 4rem;
-    padding: 5rem 2rem;
+    padding: 0.5rem 2rem;
     text-align: center;
+}
+
+.majorArcanaTitle,
+.minorArcanaTitle {
+    font-family: var(--section-title-font);
+    font-size: var(--section-title-font-size);
+    margin-bottom: 2rem;
+
+    width: 100%;
+    padding: 2rem 0;
+    text-align: center;
+    background-color: #1e1e1e;
+    box-shadow: 0.4rem 0 0.8rem rgba(139, 155, 184, 0.911);
 }
 
 .card {
@@ -51,9 +89,12 @@ body {
     flex-direction: column;
     align-items: center;
 
-    max-width: 32rem;
+    flex-wrap: wrap;
 
-    padding: 3rem 1rem;
+    max-width: 32rem;
+    height: auto;
+
+    padding: 3rem 2rem;
 
     gap: 3rem;
 
@@ -81,6 +122,36 @@ body {
     flex-direction: column;
     align-items: center;
 
+
     gap: 2rem;
 }
 
+.cardTitle {
+    font-family: var(--card-title-font);
+    font-size: var(--card-title-font-size);
+
+}
+
+.keyWords {
+    font-family: var(--card-key-word-text-font);
+    font-size: clamp(1rem, 1.5vw, 2rem);
+    color: rgb(187, 164, 212);
+
+    text-align: center;
+
+    text-wrap: wrap;
+    text-wrap-style: pretty;
+}
+
+.description {
+    font-family: var(--card-description-text-font);
+    font-size: var(--card-description-text-font-size);
+    color: #cccccc;
+    max-width: 100%;
+
+
+    text-align: center;
+
+    text-wrap: wrap;
+    text-wrap-style: pretty;
+}

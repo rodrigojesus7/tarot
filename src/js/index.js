@@ -1,4 +1,4 @@
-const cardsContainer = document.querySelector('.cards-container')
+const cardsContainer = document.querySelector('.cardsContainer')
 const majorArcanaContainer = document.querySelector('.majorArcanaContainer')
 const minorArcanaContainer = document.querySelector('.minorArcanaContainer')
 
@@ -24,9 +24,9 @@ getData().then(data => {
             <img src="./src${card.imagem}" alt="Carta do Tartot: ${card.nome}">
             
             <div class="cardInfo">
-                <h2>${card.nome}</h2>
-                <p>${card.keywordsPositivas}</p>
-                <p>${card.descricaoLonga}</p>
+                <h3 class="cardTitle">${card.nome}</h3>
+                <p class="keyWords">${String(card.keywordsPositivas).split(',').join(', ')}</p>
+                <p class="description">${card.descricaoLonga}</p>
             </div>
             
         </div>
@@ -41,8 +41,8 @@ getData().then(data => {
             <img src="./src${card.imagem}" alt="Carta do Tartot: ${card.nome}">
 
             <div class="cardInfo">
-                <h2 class="cardTitle">${card.nome}</h2>
-                <p class="keyWords">${card.keywordsPositivas}</p>
+                <h3 class="cardTitle">${card.nome}</h3>
+                <p class="keyWords">${String(card.keywordsPositivas).split(',').join(', ')}</p>
                 <p class="description">${card.descricaoLonga}</p>
             </div>
 
