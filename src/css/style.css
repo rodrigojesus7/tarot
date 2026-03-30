@@ -47,6 +47,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+
+    width: 100%;
+
     gap: 4rem;
     padding: 2rem 0;
 }
@@ -56,6 +59,9 @@ body {
     display: flex;
     flex-direction: column;
     align-items: center;
+
+    width: 100%;
+
     gap: 2rem;
 
     margin: 7rem 0;
@@ -78,11 +84,22 @@ body {
     margin-bottom: 2rem;
 
     width: 100%;
+
     padding: 2rem 0;
     text-align: center;
     background-color: #1e1e1e;
     box-shadow: 0.4rem 0 0.8rem rgba(139, 155, 184, 0.911);
+
+    cursor: pointer;
+    transition: ease-in-out 0.2s;
 }
+
+.majorArcanaTitle:hover,
+.minorArcanaTitle:hover {
+    box-shadow: 0.1rem 0.1rem 4rem rgba(139, 155, 184, 0.911);
+}
+
+
 
 .card {
     display: flex;
@@ -115,6 +132,8 @@ body {
 
 .card:hover {
     transform: translateY(-1rem);
+    box-shadow: 0.1rem 0.1rem 2rem rgba(139, 155, 184, 0.911);
+
 }
 
 .cardInfo {
@@ -154,4 +173,9 @@ body {
 
     text-wrap: wrap;
     text-wrap-style: pretty;
+}
+
+
+.hidden {
+    display: none;
 }

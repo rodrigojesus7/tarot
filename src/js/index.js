@@ -1,6 +1,8 @@
 const cardsContainer = document.querySelector('.cardsContainer')
 const majorArcanaContainer = document.querySelector('.majorArcanaContainer')
 const minorArcanaContainer = document.querySelector('.minorArcanaContainer')
+const majorArcanaTitle = document.querySelector('.majorArcanaTitle')
+const minorArcanaTitle = document.querySelector('.minorArcanaTitle')
 
 async function getData() {
     const file = './tarot_pt_json.json';
@@ -51,6 +53,23 @@ getData().then(data => {
     }).join('');
 
 
+})
 
+
+majorArcanaTitle.addEventListener('click', () => {
+    if (majorArcanaContainer.classList.contains('hidden')) {
+        majorArcanaContainer.classList.remove('hidden');
+    } else {
+        majorArcanaContainer.classList.add('hidden');
+
+    }
+})
+
+minorArcanaTitle.addEventListener('click', () => {
+    if (minorArcanaContainer.classList.contains('hidden')) {
+        minorArcanaContainer.classList.remove('hidden');
+    } else {
+        minorArcanaContainer.classList.add('hidden');
+    }
 
 })
