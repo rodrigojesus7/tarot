@@ -14,6 +14,19 @@
 
     --card-description-text-font: 'Lora', serif;
     --card-description-text-font-size: clamp(0.8rem, 1vw, 1.5rem);
+
+
+    --draw-card-section-title-hover: #a5971e;
+
+    --draw-card-category-shadow: #e7d850e8;
+    --draw-card-category-svg-shadow: #e7d85075;
+
+    --draw-card-title-font: 'Cinzel', serif;
+    --draw-card-title-hover: #a5971e;
+    --draw-card-title-font-size: clamp(1.5rem, 2vw, 2.5rem);
+
+    --draw-card-description-text-font: 'Lora', serif;
+    --draw-card-description-text-font-size: clamp(0.8rem, 1vw, 1.5rem);
 }
 
 
@@ -23,7 +36,7 @@ body {
     flex-direction: column;
     align-items: center;
     background-color: #0f0025;
-    color: whitesmoke;
+    color: #f5f5f5;
 
 }
 
@@ -32,7 +45,7 @@ body {
     padding: 5rem;
 
     background-color: #1e1e1e;
-    box-shadow: 0 0.4rem 0.8rem rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0.4rem 0.8rem #00000033;
 
     text-align: center;
 }
@@ -78,8 +91,7 @@ body {
 }
 
 .majorArcana__title,
-.minorArcana__title,
-.drawCardSection__title {
+.minorArcana__title {
     font-family: var(--section-title-font);
     font-size: var(--section-title-font-size);
     margin-bottom: 2rem;
@@ -89,16 +101,16 @@ body {
     padding: 2rem 0;
     text-align: center;
     background-color: #1e1e1e;
-    box-shadow: 0.4rem 0 0.8rem rgba(139, 155, 184, 0.911);
+    box-shadow: 0.4rem 0 0.8rem #8b9bb8e8;
 
     cursor: pointer;
     transition: ease-in-out 0.2s;
 }
 
 .majorArcana__title:hover,
-.minorArcana__title:hover,
-.drawCardSection__title:hover {
-    box-shadow: 0.1rem 0.1rem 4rem rgba(139, 155, 184, 0.911);
+.minorArcana__title:hover {
+    box-shadow: 0.1rem 0.1rem 4rem #8b9bb8e8;
+    color: #abc0e7;
 }
 
 
@@ -122,7 +134,7 @@ body {
 
 
     background-color: #1e1e1e;
-    box-shadow: 0 0.4rem 0.8rem rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0.4rem 0.8rem #00000033;
     transition: transform 0.2s;
 }
 
@@ -134,7 +146,7 @@ body {
 
 .card:hover {
     transform: translateY(-1rem);
-    box-shadow: 0.1rem 0.1rem 2rem rgba(139, 155, 184, 0.911);
+    box-shadow: 0.1rem 0.1rem 2rem #8b9bb8e8;
 
 }
 
@@ -156,7 +168,7 @@ body {
 .card__keyWords {
     font-family: var(--card-key-word-text-font);
     font-size: clamp(1rem, 1.5vw, 2rem);
-    color: rgb(187, 164, 212);
+    color: #bba4d4;
 
     text-align: center;
 
@@ -191,11 +203,112 @@ body {
     margin: 7rem 0;
 }
 
+.drawCardSection__title {
+    font-family: var(--section-title-font);
+    font-size: var(--section-title-font-size);
+    margin-bottom: 2rem;
+
+    width: 100%;
+
+    padding: 2rem 0;
+    text-align: center;
+    background-color: #1e1e1e;
+    box-shadow: 0.4rem 0 0.8rem var(--draw-card-category-shadow);
+
+    cursor: pointer;
+    transition: ease-in-out 0.2s;
+}
+
+.drawCardSection__title:hover {
+    box-shadow: 0.1rem 0.1rem 4rem var(--draw-card-category-shadow);
+    color: var(--draw-card-section-title-hover);
+
+}
+
+.drawCardCategoryContainer {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 4rem;
+    padding: 0.5rem 2rem;
+    text-align: center;
+}
 
 
 
+.drawCardCategory {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    justify-content: space-between;
+
+    max-width: 32rem;
+    height: auto;
+
+    padding: 3rem 2rem;
+
+    gap: 3rem;
+
+    border: 0.1rem solid #333333;
+    border-radius: 0.8rem;
 
 
+    background-color: #1e1e1e;
+    box-shadow: 0 0.4rem 0.8rem #00000033;
+    transition: transform 0.2s;
+
+    cursor: pointer;
+}
+
+.drawCardCategory svg {
+    width: 13rem;
+    height: auto;
+    transition: ease-in-out 0.2s;
+}
+
+
+.drawCardCategory:hover {
+    transform: translateY(-1rem);
+    box-shadow: 0.1rem 0.1rem 2rem var(--draw-card-category-shadow);
+}
+
+.drawCardCategory:hover svg {
+    filter: drop-shadow(0.1rem 0.1rem 2rem var(--draw-card-category-svg-shadow));
+
+}
+
+
+
+.drawCardCategory__info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    gap: 2rem;
+}
+
+.drawCardCategory__title {
+    font-family: var(--draw-card-title-font);
+    font-size: var(--draw-card-title-font-size);
+
+    transition: ease-in-out 0.2s;
+}
+
+.drawCardCategory:hover .drawCardCategory__title {
+    color: var(--draw-card-title-hover);
+}
+
+.drawCardCategory__description {
+    font-family: var(--draw-card-description-text-font);
+    font-size: var(--draw-card-description-text-font-size);
+    color: #cccccc;
+    max-width: 100%;
+
+    text-align: center;
+    text-wrap: wrap;
+    text-wrap-style: pretty;
+}
 
 
 
