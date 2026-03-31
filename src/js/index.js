@@ -1,8 +1,8 @@
 const cardsContainer = document.querySelector('.cardsContainer')
 const majorArcanaContainer = document.querySelector('.majorArcanaContainer')
 const minorArcanaContainer = document.querySelector('.minorArcanaContainer')
-const majorArcanaTitle = document.querySelector('.majorArcanaTitle')
-const minorArcanaTitle = document.querySelector('.minorArcanaTitle')
+const majorArcanaTitle = document.querySelector('.majorArcana__title')
+const minorArcanaTitle = document.querySelector('.minorArcana__title')
 
 async function getData() {
     const file = './tarot_pt_json.json';
@@ -25,10 +25,10 @@ getData().then(data => {
         <div class="card">
             <img src="./src${card.imagem}" alt="Carta do Tartot: ${card.nome}">
             
-            <div class="cardInfo">
-                <h3 class="cardTitle">${card.nome}</h3>
-                <p class="keyWords">${String(card.keywordsPositivas).split(',').join(', ')}</p>
-                <p class="description">${card.descricaoLonga}</p>
+            <div class="card__info">
+                <h3 class="card__title">${card.nome}</h3>
+                <p class="card__keyWords">${String(card.keywordsPositivas).split(',').join(', ')}</p>
+                <p class="card__description">${card.descricaoLonga}</p>
             </div>
             
         </div>
@@ -42,10 +42,10 @@ getData().then(data => {
         <div class="card">
             <img src="./src${card.imagem}" alt="Carta do Tartot: ${card.nome}">
 
-            <div class="cardInfo">
-                <h3 class="cardTitle">${card.nome}</h3>
-                <p class="keyWords">${String(card.keywordsPositivas).split(',').join(', ')}</p>
-                <p class="description">${card.descricaoLonga}</p>
+            <div class="card__info">
+                <h3 class="card__title">${card.nome}</h3>
+                <p class="card__keyWords">${String(card.keywordsPositivas).split(',').join(', ')}</p>
+                <p class="card__description">${card.descricaoLonga}</p>
             </div>
 
         </div>

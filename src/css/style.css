@@ -77,8 +77,9 @@ body {
     text-align: center;
 }
 
-.majorArcanaTitle,
-.minorArcanaTitle {
+.majorArcana__title,
+.minorArcana__title,
+.drawCardSection__title {
     font-family: var(--section-title-font);
     font-size: var(--section-title-font-size);
     margin-bottom: 2rem;
@@ -94,8 +95,9 @@ body {
     transition: ease-in-out 0.2s;
 }
 
-.majorArcanaTitle:hover,
-.minorArcanaTitle:hover {
+.majorArcana__title:hover,
+.minorArcana__title:hover,
+.drawCardSection__title:hover {
     box-shadow: 0.1rem 0.1rem 4rem rgba(139, 155, 184, 0.911);
 }
 
@@ -136,7 +138,7 @@ body {
 
 }
 
-.cardInfo {
+.card__info {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -145,13 +147,13 @@ body {
     gap: 2rem;
 }
 
-.cardTitle {
+.card__title {
     font-family: var(--card-title-font);
     font-size: var(--card-title-font-size);
 
 }
 
-.keyWords {
+.card__keyWords {
     font-family: var(--card-key-word-text-font);
     font-size: clamp(1rem, 1.5vw, 2rem);
     color: rgb(187, 164, 212);
@@ -162,7 +164,7 @@ body {
     text-wrap-style: pretty;
 }
 
-.description {
+.card__description {
     font-family: var(--card-description-text-font);
     font-size: var(--card-description-text-font-size);
     color: #cccccc;
@@ -174,6 +176,27 @@ body {
     text-wrap: wrap;
     text-wrap-style: pretty;
 }
+
+
+
+.drawCardSection {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    width: 100%;
+
+    gap: 2rem;
+
+    margin: 7rem 0;
+}
+
+
+
+
+
+
+
 
 
 .hidden {
