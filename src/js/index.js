@@ -3,8 +3,13 @@ const majorArcanaContainer = document.querySelector('.majorArcanaContainer')
 const minorArcanaContainer = document.querySelector('.minorArcanaContainer')
 const majorArcanaTitle = document.querySelector('.majorArcana__title')
 const minorArcanaTitle = document.querySelector('.minorArcana__title')
+
+const drawCardSection = document.querySelector('.drawCardSection')
 const drawCardSectionTitle = document.querySelector('.drawCardSection__title')
 const drawCardCategoryContainer = document.querySelector('.drawCardCategoryContainer')
+const drawCardCategoryButtons = document.querySelectorAll('.drawCardCategory__button')
+
+const spreadsReturnButton = document.querySelector('.spreads__returnButton')
 
 async function getData() {
     const file = './tarot_pt_json.json';
@@ -83,4 +88,33 @@ drawCardSectionTitle.addEventListener('click', () => {
         drawCardCategoryContainer.classList.add('hidden');
 
     }
+})
+
+
+
+
+drawCardCategoryButtons.forEach((button, index) => {
+
+    const spread1 = 0;
+    const spread2 = 1;
+    const spread3 = 2;
+
+    button.addEventListener('click', function () {
+
+        cardsContainer.classList.add('hidden');
+        drawCardSection.classList.add('hidden');
+
+        spreadsReturnButton.classList.remove('hidden');
+
+    })
+
+})
+
+
+spreadsReturnButton.addEventListener('click', function () {
+
+    spreadsReturnButton.classList.add('hidden');
+
+    cardsContainer.classList.remove('hidden');
+    drawCardSection.classList.remove('hidden');
 })
