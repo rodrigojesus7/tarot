@@ -270,7 +270,7 @@ body {
 
     padding: 3rem 2rem;
 
-    gap: 3rem;
+    gap: 5rem;
 
     border: 0.1rem solid #333333;
     border-radius: 0.8rem;
@@ -279,8 +279,6 @@ body {
     background-color: #1e1e1e;
     box-shadow: 0 0.4rem 0.8rem #00000033;
     transition: transform 0.2s;
-
-    cursor: pointer;
 }
 
 .drawCardCategory svg {
@@ -332,6 +330,24 @@ body {
     text-wrap-style: pretty;
 }
 
+.drawCardCategory__instruction {
+    font-family: var(--card-description-text-font);
+    font-size: var(--card-description-text-font-size);
+    color: #a5971e;
+    max-width: 100%;
+
+    text-align: center;
+    text-wrap: wrap;
+    text-wrap-style: pretty;
+
+    font-family: 'Cinzel', serif;
+}
+
+.drawCardCategory__button {
+    background-color: transparent;
+    border: none;
+    cursor: pointer;
+}
 
 
 .hidden {
