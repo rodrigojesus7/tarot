@@ -158,7 +158,8 @@ body {
     transition: transform 0.2s;
 }
 
-.card img {
+.card img,
+.chosenCard img {
     border-radius: 1.5rem;
     width: 70%;
     height: auto;
@@ -167,10 +168,10 @@ body {
 .card:hover {
     transform: translateY(-1rem);
     box-shadow: 0.1rem 0.1rem 2rem #8b9bb8e8;
-
 }
 
-.card__info {
+.card__info,
+.chosenCard {
     display: flex;
     flex-direction: column;
     align-items: center;
@@ -179,13 +180,15 @@ body {
     gap: 2rem;
 }
 
-.card__title {
+.card__title,
+.chosenCard {
     font-family: var(--card-title-font);
     font-size: var(--card-title-font-size);
 
 }
 
-.card__keyWords {
+.card__keyWords,
+.chosenCard {
     font-family: var(--card-key-word-text-font);
     font-size: var(--card-key-word-text-font-size);
     color: #bba4d4;
@@ -196,7 +199,8 @@ body {
     text-wrap-style: pretty;
 }
 
-.card__description {
+.card__description,
+.chosenCard {
     font-family: var(--card-description-text-font);
     font-size: var(--card-description-text-font-size);
     color: #cccccc;
@@ -383,10 +387,47 @@ body {
 
 
 
+.spreadsContainer {
+    display: flex;
+    flex-direction: column;
+    
+    gap: 4rem;
+}
 
 
+.chosenCard {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    flex-wrap: wrap;
+
+    max-width: 32rem;
+    height: auto;
+
+    padding: 3rem 2rem;
+
+    gap: 3rem;
+
+    border: 0.1rem solid #333333;
+    border-radius: 0.8rem;
 
 
+    background-color: #1e1e1e;
+    box-shadow: 0 0.4rem 0.8rem #00000033;
+    transition: transform 0.2s;
+}
+
+.chosenCard:hover {
+    box-shadow: 0.1rem 0.1rem 2rem var(--draw-card-category-shadow);
+}
+
+.chosenCardIndex {
+    font-family: 'Cinzel', serif;
+    font-size: 3rem;
+
+    text-align: center;
+}
 
 
 
