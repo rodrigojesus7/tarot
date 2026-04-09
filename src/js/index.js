@@ -148,7 +148,7 @@ function drawRandomCard(selectedSpread) {
             <div class="card__info">
                 <h3 class="card__title">${chosenCard.nome}</h3>
                 <p class="card__keyWords">${String(chosenCard.keywordsPositivas).split(',').join(', ')}</p>
-                <p class="card__description">${chosenCard.descricaoLonga}</p>
+                <p class="card__description">${chosenCard.descricaoCurta}</p>
             </div>
 
         </div>
@@ -179,7 +179,7 @@ function drawRandomCard(selectedSpread) {
                 <div class="card__info">
                     <h3 class="card__title">${chosenCard1.nome}</h3>
                     <p class="card__keyWords">${String(chosenCard1.keywordsPositivas).split(',').join(', ')}</p>
-                    <p class="card__description">${chosenCard1.descricaoLonga}</p>
+                    <p class="card__description">${chosenCard1.descricaoCurta}</p>
                 </div>
             </div>
         </div>
@@ -192,7 +192,7 @@ function drawRandomCard(selectedSpread) {
                 <div class="card__info">
                     <h3 class="card__title">${chosenCard2.nome}</h3>
                     <p class="card__keyWords">${String(chosenCard2.keywordsPositivas).split(',').join(', ')}</p>
-                    <p class="card__description">${chosenCard2.descricaoLonga}</p>
+                    <p class="card__description">${chosenCard2.descricaoCurta}</p>
                 </div>
 
             </div>
@@ -241,7 +241,7 @@ function drawRandomCard(selectedSpread) {
                 <div class="card__info">
                     <h3 class="card__title">${chosenCard1.nome}</h3>
                     <p class="card__keyWords">${String(chosenCard1.keywordsPositivas).split(',').join(', ')}</p>
-                    <p class="card__description">${chosenCard1.descricaoLonga}</p>
+                    <p class="card__description">${chosenCard1.descricaoCurta}</p>
                 </div>
             </div>
         </div>
@@ -254,7 +254,7 @@ function drawRandomCard(selectedSpread) {
                 <div class="card__info">
                     <h3 class="card__title">${chosenCard2.nome}</h3>
                     <p class="card__keyWords">${String(chosenCard2.keywordsPositivas).split(',').join(', ')}</p>
-                    <p class="card__description">${chosenCard2.descricaoLonga}</p>
+                    <p class="card__description">${chosenCard2.descricaoCurta}</p>
                 </div>
 
             </div>
@@ -268,7 +268,7 @@ function drawRandomCard(selectedSpread) {
                 <div class="card__info">
                     <h3 class="card__title">${chosenCard3.nome}</h3>
                     <p class="card__keyWords">${String(chosenCard3.keywordsPositivas).split(',').join(', ')}</p>
-                    <p class="card__description">${chosenCard3.descricaoLonga}</p>
+                    <p class="card__description">${chosenCard3.descricaoCurta}</p>
                 </div>
             </div>
         </div>
