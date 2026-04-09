@@ -136,8 +136,6 @@ spreadsReturnButton.addEventListener('click', function () {
 function drawRandomCard(selectedSpread) {
 
 
-
-
     if (selectedSpread === 0) {
 
         let cardIndex = Math.floor(Math.random() * allCards.length)
@@ -203,6 +201,81 @@ function drawRandomCard(selectedSpread) {
         `
     }
 
+
+    if (selectedSpread === 2) {
+
+        let cardIndex1 = Math.floor(Math.random() * allCards.length)
+        let cardIndex2 = Math.floor(Math.random() * allCards.length)
+        let cardIndex3 = Math.floor(Math.random() * allCards.length)
+
+        if (cardIndex2 === cardIndex1) {
+            cardIndex2 = Math.floor(Math.random() * allCards.length)
+        }
+
+        if (cardIndex3 === cardIndex1) {
+            cardIndex3 = Math.floor(Math.random() * allCards.length)
+        }
+
+        if (cardIndex3 === cardIndex2) {
+            cardIndex3 = Math.floor(Math.random() * allCards.length)
+        }
+
+        let chosenCard1 = allCards[cardIndex1]
+        let chosenCard2 = allCards[cardIndex2]
+        let chosenCard3 = allCards[cardIndex3]
+
+
+        chosenCard1 = allCards[cardIndex1]
+        chosenCard2 = allCards[cardIndex2]
+        chosenCard3 = allCards[cardIndex3]
+
+
+
+        spreadsContainer.innerHTML = `
+
+        <div>
+            <p class="chosenCardIndex">Passado</p>
+            <div class="chosenCard">
+                <img src="./src${chosenCard1.imagem}" alt="Carta do Tartot: ${chosenCard1.nome}">
+
+                <div class="card__info">
+                    <h3 class="card__title">${chosenCard1.nome}</h3>
+                    <p class="card__keyWords">${String(chosenCard1.keywordsPositivas).split(',').join(', ')}</p>
+                    <p class="card__description">${chosenCard1.descricaoLonga}</p>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <p class="chosenCardIndex">Presente</p>
+            <div class="chosenCard">
+                <img src="./src${chosenCard2.imagem}" alt="Carta do Tartot: ${chosenCard2.nome}">
+
+                <div class="card__info">
+                    <h3 class="card__title">${chosenCard2.nome}</h3>
+                    <p class="card__keyWords">${String(chosenCard2.keywordsPositivas).split(',').join(', ')}</p>
+                    <p class="card__description">${chosenCard2.descricaoLonga}</p>
+                </div>
+
+            </div>
+        </div>
+
+                <div>
+            <p class="chosenCardIndex">Futuro</p>
+            <div class="chosenCard">
+                <img src="./src${chosenCard3.imagem}" alt="Carta do Tartot: ${chosenCard3.nome}">
+
+                <div class="card__info">
+                    <h3 class="card__title">${chosenCard3.nome}</h3>
+                    <p class="card__keyWords">${String(chosenCard3.keywordsPositivas).split(',').join(', ')}</p>
+                    <p class="card__description">${chosenCard3.descricaoLonga}</p>
+                </div>
+            </div>
+        </div>
+
+        `
+
+    }
 
 }
 
