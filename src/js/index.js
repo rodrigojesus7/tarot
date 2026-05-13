@@ -130,18 +130,12 @@ spreadsReturnButton.addEventListener('click', function () {
 })
 
 
+function spread1(selectedSpread) {
 
+    let cardIndex = Math.floor(Math.random() * allCards.length)
+    let chosenCard = allCards[cardIndex]
 
-
-function drawRandomCard(selectedSpread) {
-
-
-    if (selectedSpread === 0) {
-
-        let cardIndex = Math.floor(Math.random() * allCards.length)
-        let chosenCard = allCards[cardIndex]
-
-        spreadsContainer.innerHTML = `
+    spreadsContainer.innerHTML = `
         <div class="chosenCard">
             <img src="./src${chosenCard.imagem}" alt="Carta do Tartot: ${chosenCard.nome}">
 
@@ -153,23 +147,23 @@ function drawRandomCard(selectedSpread) {
 
         </div>
         `
+}
+
+function spread2(selectedSpread) {
+
+    let cardIndex1 = Math.floor(Math.random() * allCards.length)
+    let cardIndex2 = Math.floor(Math.random() * allCards.length)
+
+    if (cardIndex2 === cardIndex1) {
+        cardIndex2 = Math.floor(Math.random() * allCards.length)
     }
 
-    if (selectedSpread === 1) {
-
-        let cardIndex1 = Math.floor(Math.random() * allCards.length)
-        let cardIndex2 = Math.floor(Math.random() * allCards.length)
-
-        if (cardIndex2 === cardIndex1) {
-            cardIndex2 = Math.floor(Math.random() * allCards.length)
-        }
-
-        let chosenCard1 = allCards[cardIndex1]
-        let chosenCard2 = allCards[cardIndex2]
+    let chosenCard1 = allCards[cardIndex1]
+    let chosenCard2 = allCards[cardIndex2]
 
 
 
-        spreadsContainer.innerHTML = `
+    spreadsContainer.innerHTML = `
 
         <div>
             <p class="chosenCardIndex">Escolha 1</p>
@@ -199,39 +193,39 @@ function drawRandomCard(selectedSpread) {
         </div>
 
         `
+}
+
+
+function spread3(selectedSpread) {
+
+    let cardIndex1 = Math.floor(Math.random() * allCards.length)
+    let cardIndex2 = Math.floor(Math.random() * allCards.length)
+    let cardIndex3 = Math.floor(Math.random() * allCards.length)
+
+    if (cardIndex2 === cardIndex1) {
+        cardIndex2 = Math.floor(Math.random() * allCards.length)
     }
 
+    if (cardIndex3 === cardIndex1) {
+        cardIndex3 = Math.floor(Math.random() * allCards.length)
+    }
 
-    if (selectedSpread === 2) {
+    if (cardIndex3 === cardIndex2) {
+        cardIndex3 = Math.floor(Math.random() * allCards.length)
+    }
 
-        let cardIndex1 = Math.floor(Math.random() * allCards.length)
-        let cardIndex2 = Math.floor(Math.random() * allCards.length)
-        let cardIndex3 = Math.floor(Math.random() * allCards.length)
-
-        if (cardIndex2 === cardIndex1) {
-            cardIndex2 = Math.floor(Math.random() * allCards.length)
-        }
-
-        if (cardIndex3 === cardIndex1) {
-            cardIndex3 = Math.floor(Math.random() * allCards.length)
-        }
-
-        if (cardIndex3 === cardIndex2) {
-            cardIndex3 = Math.floor(Math.random() * allCards.length)
-        }
-
-        let chosenCard1 = allCards[cardIndex1]
-        let chosenCard2 = allCards[cardIndex2]
-        let chosenCard3 = allCards[cardIndex3]
+    let chosenCard1 = allCards[cardIndex1]
+    let chosenCard2 = allCards[cardIndex2]
+    let chosenCard3 = allCards[cardIndex3]
 
 
-        chosenCard1 = allCards[cardIndex1]
-        chosenCard2 = allCards[cardIndex2]
-        chosenCard3 = allCards[cardIndex3]
+    chosenCard1 = allCards[cardIndex1]
+    chosenCard2 = allCards[cardIndex2]
+    chosenCard3 = allCards[cardIndex3]
 
 
 
-        spreadsContainer.innerHTML = `
+    spreadsContainer.innerHTML = `
 
         <div>
             <p class="chosenCardIndex">Passado</p>
@@ -274,6 +268,28 @@ function drawRandomCard(selectedSpread) {
         </div>
 
         `
+}
+
+
+function drawRandomCard(selectedSpread) {
+
+
+    if (selectedSpread === 0) {
+
+        spread1()
+
+    }
+
+    if (selectedSpread === 1) {
+
+        spread2()
+
+    }
+
+
+    if (selectedSpread === 2) {
+
+        spread3()
 
     }
 
