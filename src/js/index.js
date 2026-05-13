@@ -12,6 +12,7 @@ const drawCardCategoryButtons = document.querySelectorAll('.drawCardCategory__bu
 const spreadsSection = document.querySelector('.spreads')
 const spreadsContainer = document.querySelector('.spreadsContainer')
 const spreadsReturnButton = document.querySelector('.spreads__returnButton')
+const spreadsAgainButton = document.querySelector('.spreads__againButton')
 let selectedSpread = null
 let allCards = []
 
@@ -108,8 +109,9 @@ drawCardCategoryButtons.forEach((button, index) => {
         spreadsReturnButton.classList.remove('hidden');
         spreadsSection.classList.remove('hidden')
 
+        spreadsAgainButton.classList.remove('hidden')
 
-        let selectedSpread = index
+        selectedSpread = index
 
         drawRandomCard(selectedSpread)
 
@@ -125,8 +127,15 @@ spreadsReturnButton.addEventListener('click', function () {
     spreadsReturnButton.classList.add('hidden');
     spreadsSection.classList.add('hidden')
 
+    spreadsAgainButton.classList.add('hidden')
+
     cardsContainer.classList.remove('hidden');
     drawCardSection.classList.remove('hidden');
+})
+
+
+spreadsAgainButton.addEventListener('click', function () {
+    drawRandomCard(selectedSpread)
 })
 
 
@@ -276,20 +285,20 @@ function drawRandomCard(selectedSpread) {
 
     if (selectedSpread === 0) {
 
-        spread1()
+        spread1(selectedSpread)
 
     }
 
     if (selectedSpread === 1) {
 
-        spread2()
+        spread2(selectedSpread)
 
     }
 
 
     if (selectedSpread === 2) {
 
-        spread3()
+        spread3(selectedSpread)
 
     }
 

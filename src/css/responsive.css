@@ -2,4 +2,8 @@
     .spreadsContainer{
         flex-direction: row;
     }
+
+    .spreadsButtonsContainer{
+        flex-direction: row;
+    }
 }

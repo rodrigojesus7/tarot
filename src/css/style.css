@@ -368,7 +368,14 @@ body {
     margin-top: 4rem;
 }
 
-.spreads__returnButton {
+.spreadsButtonsContainer{
+    display: flex;
+    flex-direction: column;
+    
+    gap: 2rem;
+}
+
+.spreads__returnButton, .spreads__againButton {
     background-color: transparent;
     border: 0.1rem solid #333333;
     border-radius: 0.8rem;
@@ -380,7 +387,7 @@ body {
     transition: ease-in-out 0.2s;
 }
 
-.spreads__returnButton:hover {
+.spreads__returnButton:hover, .spreads__againButton:hover {
     color: var(--draw-card-section-title-hover);
     box-shadow: 0.1rem 0.1rem 2rem var(--draw-card-category-shadow);
 }
