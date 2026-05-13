@@ -363,10 +363,9 @@ body {
 
     width: 100%;
 
-    gap: 2rem;
+    gap: 7rem;
 
     margin-top: 4rem;
-
 }
 
 .spreads__returnButton {
@@ -404,7 +403,7 @@ body {
     flex-wrap: wrap;
 
     max-width: 32rem;
-    height: auto;
+    min-height: 100%;
 
     padding: 3rem 2rem;
 
