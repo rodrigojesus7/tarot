@@ -1158,19 +1158,18 @@
       "slug": "sete-de-paus",
       "imagem": "/images/tarot/menor/paus/sete-de-paus.png",
       "imagemReversa": "/images/tarot/menor/paus/sete-de-paus-reverso.png",
-      "descricaoCurta": "Prova, estratégia e reflexão no naipe de paus.",
-      "descricaoLonga": "Sete de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
-      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "descricaoCurta": "Pequenos conflitos significativos estão à vista e será necessário destreza para conseguir transpassá-los.",
+      "descricaoLonga": "Chegou o momento de lutar para manter seu sucesso. Conflitos podem afetar qualquer área da vida e poderão se estender por um período mais longo que o esperado, mas serão superados graças à perseverança e força. Você precisará se defender de invejosos e pessoas que almejam derrubá-lo para ocupar seu lugar, mas saiba que você possui forças suficientes para não se deixar ser derrubado.",
       "keywordsPositivas": [
+        "desafios",
         "defesa",
-        "ação",
-        "vontade",
-        "criação"
+        "competição",
+        "perseverança"
       ],
       "keywordsSombrias": [
-        "bloqueio",
-        "impulsividade",
-        "cansaço"
+        "desistência",
+        "opressão",
+        "exaustão"
       ],
       "arcano": "menor",
       "naipe": "paus",
