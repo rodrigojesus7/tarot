@@ -914,7 +914,7 @@
       "imagemReversa": "/images/tarot/menor/paus/as-de-paus-reverso.png",
       "descricaoCurta": "Significa sucesso, paixão, criatividade, intuição, determinação, ambição e expansão espiritual.",
       "descricaoLonga": "Criação de algo novo. É uma carta de ação que o incentiva a dar um salto para algo novo. Ele vem com um feixe de energia positiva que faz com que novas ideias floresçam, sua motivação atinja o pico e o inspira a buscar novos caminhos. O Ás de Paus o incentiva a seguir seu coração e viver sua paixão.",
-      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "reverso": "Falta de motivação, atrasos, contratempos e notícias decepcionantes. Em vez de se sentir motivado e cheio de ímpeto por novas oportunidades, você acha difícil definir seu propósito na vida e o que deseja criar.",
       "keywordsPositivas": [
         "criatividade",
         "novas oportunidades",
@@ -953,19 +953,19 @@
       "slug": "dois-de-paus",
       "imagem": "/images/tarot/menor/paus/dois-de-paus.png",
       "imagemReversa": "/images/tarot/menor/paus/dois-de-paus-reverso.png",
-      "descricaoCurta": "Dupla, troca e equilíbrio inicial no naipe de paus.",
-      "descricaoLonga": "Dois de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
-      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "descricaoCurta": "Encruzilhada onde você tem uma decisão a tomar.",
+      "descricaoLonga": "Momento entre a inspiração e a ação, em que você reserva um tempo para planejar e avaliar como vai dar o salto para o novo. Isso indica que você alcançou uma encruzilhada onde uma escolha deve ser feita. Você pode se encontrar em um equilíbrio entre apegar-se ao que sabe ou correr o risco de explorar suas chances.",
+      "reverso": "O Dois de Paus invertido representa o que acontece quando nos restringimos a velhas crenças e medos. Também nos alerta sobre os resultados que seguem a falta de planejamento.",
       "keywordsPositivas": [
-        "dupla",
-        "ação",
-        "vontade",
-        "criação"
+        "planejamento",
+        "tomada de decisões",
+        "assumindo riscos",
+        "primeiros passos"
       ],
       "keywordsSombrias": [
-        "bloqueio",
-        "impulsividade",
-        "cansaço"
+        "medo do desconhecido",
+        "falta de planejamento",
+        "alinhamento interno"
       ],
       "arcano": "menor",
       "naipe": "paus",
