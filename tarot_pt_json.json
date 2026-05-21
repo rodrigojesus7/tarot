@@ -1321,19 +1321,18 @@
       "slug": "pajem-de-paus",
       "imagem": "/images/tarot/menor/paus/pajem-de-paus.png",
       "imagemReversa": "/images/tarot/menor/paus/pajem-de-paus-reverso.png",
-      "descricaoCurta": "Mensagem, aprendizado e curiosidade no naipe de paus.",
-      "descricaoLonga": "Pajem de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
-      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "descricaoCurta": "O Valete de Paus é uma carta cheia de vitalidade, energia ilimitada e ânsia pela busca do conhecimento.",
+      "descricaoLonga": "O Valete de Paus mostra que você possui grande entusiasmo e paixão em tudo o que faz e isso o leva a querer explorar novos caminhos através de projetos, viagens e experiências nunca vividas antes. Não tenha medo de experimentar e se jogar em algo absolutamente novo.",
       "keywordsPositivas": [
-        "curiosidade",
-        "ação",
-        "vontade",
-        "criação"
+        "aventuras",
+        "ideias",
+        "criatividade",
+        "alegria"
       ],
       "keywordsSombrias": [
-        "bloqueio",
-        "impulsividade",
-        "cansaço"
+        "pressa",
+        "raiva",
+        "impaciência"
       ],
       "arcano": "menor",
       "naipe": "paus",
