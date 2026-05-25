@@ -1323,6 +1323,7 @@
       "imagemReversa": "/images/tarot/menor/paus/pajem-de-paus-reverso.png",
       "descricaoCurta": "O Valete de Paus é uma carta cheia de vitalidade, energia ilimitada e ânsia pela busca do conhecimento.",
       "descricaoLonga": "O Valete de Paus mostra que você possui grande entusiasmo e paixão em tudo o que faz e isso o leva a querer explorar novos caminhos através de projetos, viagens e experiências nunca vividas antes. Não tenha medo de experimentar e se jogar em algo absolutamente novo.",
+      "reverso": "Você se encontra estagnado por falta de vontade em progredir ou por não saber como fazer para dar o primeiro passo no caminho escolhido. Você pode até ter certeza do que quer e saber como deve agir para alcançar o que tanto almeja, mas a falta de ânimo e criatividade que carrega hoje, bloqueia qualquer intento seu de entrar em ação.",
       "keywordsPositivas": [
         "aventuras",
         "ideias",
@@ -1361,19 +1362,19 @@
       "slug": "cavaleiro-de-paus",
       "imagem": "/images/tarot/menor/paus/cavaleiro-de-paus.png",
       "imagemReversa": "/images/tarot/menor/paus/cavaleiro-de-paus-reverso.png",
-      "descricaoCurta": "Ação, impulso e movimento no naipe de paus.",
-      "descricaoLonga": "Cavaleiro de Paus fala de ação, vontade e iniciativa dentro do tema de ação, vontade e criação. Essa carta mostra como a energia do naipe se manifesta em experiências concretas do dia a dia.",
-      "reverso": "Bloqueio, impulsividade e cansaço.",
+      "descricaoCurta": "Sinônimo de aventura, espontaneidade e adaptabilidade a mudanças.",
+      "descricaoLonga": "Pode indicar um momento de liberdade, fuga do cotidiano e viagens. Talvez, você esteja se prendendo muito às responsabilidades do dia a dia e tenha se esquecido de tirar um tempo para curtir a vida. Tente se renovar na energia aventureira do Cavaleiro de Paus e embarque em uma mudança de estado de espírito excitante e livre, mesmo que seja apenas por um final de semana.",
+      "reverso": "Representa atrasos, frustrações e contratempos. Você, provavelmente, empregou muito esforço e trabalho para alcançar os seus objetivos, mas algo deu errado no meio do caminho e você não conseguiu avançar tanto quanto gostaria, deixando-o com raiva e desacreditado na própria capacidade de conseguir conquistar o que deseja.",
       "keywordsPositivas": [
-        "impulso",
-        "ação",
-        "vontade",
-        "criação"
+        "coragem",
+        "energia",
+        "paixão",
+        "liberdade"
       ],
       "keywordsSombrias": [
-        "bloqueio",
+        "imprudência",
         "impulsividade",
-        "cansaço"
+        "falta de autocontrole"
       ],
       "arcano": "menor",
       "naipe": "paus",
